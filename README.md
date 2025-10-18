@@ -260,11 +260,11 @@ max-width: 300px;
 <form class="contact-form">
 <div class="form-group">
 <label for="name">Name</label>
-<input type="text" id="name" name="name" placeholder="Your Name">
+<input type="text" id="name" name="Nikhil Grewal" placeholder="Your Name">
 </div>
 <div class="form-group">
 <label for="email">Email</label>
-<input type="email" id="email" name="email" placeholder="your.email@example.com">
+<input type="email" id="email" name="email" placeholder="nikhilgrewal9229@gmail.com">
 </div>
 <div class="form-group">
 <label for="message">Message</label>
