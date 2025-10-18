@@ -259,11 +259,11 @@ max-width: 300px;
 <h2>Contact Me</h2>
 <form class="contact-form">
 <div class="form-group">
-<label for="name">Name</label>
+<label for="Nikhil Grewal">Name</label>
 <input type="text" id="name" name="Nikhil Grewal" placeholder="Your Name">
 </div>
 <div class="form-group">
-<label for="email">Email</label>
+<label for="nikhilgrewal9229@gmail.com">Email</label>
 <input type="email" id="email" name="email" placeholder="nikhilgrewal9229@gmail.com">
 </div>
 <div class="form-group">
